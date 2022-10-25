@@ -1,0 +1,45 @@
+.inside{
+        display: flex;
+        width: 25vw;
+        height: 30vh;
+        border-left: 0;
+        margin: auto;
+        justify-content: center;
+        margin-bottom: 10vh;
+       
+}
+   .dog-img{
+        width: 20vw;
+        margin: auto;
+        height: 20vh;
+        position: absolute;
+        left:25vw;
+        top: 3vh;
+
+}
+.txt{
+        margin-top: 15vh;
+        margin-left: 5vw;
+        font-size: large;
+}
+.btn{
+        display: block;
+        align-items: center;
+        margin: auto;
+        margin-top: 2vh;
+        height: 3vh;
+        width: 6vw;
+        background-color: orange;
+        border: none;
+        
+        
+}
+a{
+        text-decoration: none;
+        color: white;
+}
+.btn:hover{
+        height: 4vh;
+        width: 7vw;
+        background-color:#ff8c00;
+}

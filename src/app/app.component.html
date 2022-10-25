@@ -1,0 +1,13 @@
+<div class="app">
+  <div class="top-panel">Aplikacja webowa stworzona na potrzeby rekrutacji do firmy Envelo</div>
+  <header>
+    <h1>Psintagram</h1>
+  </header>
+  <div class="section">
+   
+    <app-select-list (selectedBreedEvent)='selectBreed($event)'></app-select-list>
+    <app-content-box [selectedBreed]="selectedBreed"></app-content-box>
+    <app-dog-pattern-footer></app-dog-pattern-footer>
+    
+  </div>
+</div>

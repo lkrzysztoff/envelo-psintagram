@@ -1,0 +1,42 @@
+
+
+
+
+
+.select-box{
+    display: flex;
+    width: 15vw;
+    height: 40vh;
+    font-size: 3vh;
+    border-right: lightgray dotted;
+    margin-bottom: 15vh;
+    
+
+}
+select{
+    background-color: orange;
+    color: white;
+    box-sizing: border-box;
+    appearance: none;
+    border: none;
+    text-align: center;
+    outline: none;
+    width: 10vw;
+    height: 3vh;
+    cursor: pointer;
+}
+option:checked{
+    background-color: #ff8c00;
+}
+select>option{
+    border-radius: 0;
+}
+
+
+
+
+
+    
+
+
+    

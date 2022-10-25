@@ -1,0 +1,30 @@
+.app{
+    
+    margin: auto;
+    height: 70vh;
+    width: 50vw;
+    background-color: white;
+    margin-top: 15vh;
+    
+    
+}
+.top-panel{
+    margin: 0;
+    padding: 1rem;
+    background-color: black;
+    color:white;
+    
+    
+}
+h1{
+    padding: 1rem 0 0  2rem;
+    color:orange;
+}
+.section{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 60vh;
+    width: 50vw;
+    position: fixed;
+}

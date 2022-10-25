@@ -1,0 +1,12 @@
+
+    <div class="select-box">
+        <div class="form">
+        <br><label id="slct" class="dogs-label" for="dogs">Wybierz rasę:</label><br>
+        <select formControlName="breed" (change)="onChange($event)" class="dogs-options">
+            <option *ngFor="let breed of breedsData" >
+                {{breed}}
+            </option>
+        </select>    
+        </div>
+    </div>
+
