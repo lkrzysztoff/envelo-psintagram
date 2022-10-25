@@ -10,9 +10,6 @@ This project is basic web app that takes data from API (https://dog.ceo/dog-api/
 
 Project was created as a recruitment task for recruitment process to Envelo Academy.
 
-## How to run my project?
-
-Fire up a browser and go to https://lkrzysztoff.github.io
 
 
 #� �e�n�v�e�l�o�-�p�s�i�n�t�a�g�r�a�m�
